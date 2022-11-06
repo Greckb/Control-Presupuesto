@@ -12,4 +12,4 @@ This mini project has been created with React - Vite - CSS
 
 _____________________________________________________
 
-Check it out: https://app.netlify.com/sites/jovial-cannoli-b53872/overview
+Check it out: https://jovial-cannoli-b53872.netlify.app/
